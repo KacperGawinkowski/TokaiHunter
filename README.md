@@ -11,3 +11,9 @@ Each time you play you will encounter a different dungeon as well as different e
 
 Yokai Hunter is a game prototype that we might expand in the future. Currently it's in a alpha stage and it's only a demo of the game. You might encounter some bugs when playing. 
 Let us know in the comments what you think about our game. Feedback is appreciated!
+
+Credits: 
+  Programming: Paweł Pakuła 
+  Programming: Kacper Gawinkowski 
+  2D Graphics: Mateusz Horbowiec 
+  3D Graphics: Maciej Tokarzewski
